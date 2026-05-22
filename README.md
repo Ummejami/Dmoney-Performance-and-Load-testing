@@ -60,7 +60,7 @@ It simulates different financial transactions such as deposit, send money, and p
 ## 📊 Test Scenarios
 - ✅ Deposit Money  
 - ✅ Send Money  
-- ✅ Payment Processing  
+- ✅ Payment  
 
 ---
 ## 📸 Test Results

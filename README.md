@@ -65,6 +65,11 @@ main/
 │   ├── sendmoney.csv
 │   └── payment.csv
 │
+├── UserData/
+│   ├── userlogin(Agent).csv
+│   ├── userlogin(Customer_Payment).csv
+│   └── userlogin(Customer_SendMoney).csv
+│
 └── Images/
     ├── request-summary.png
     └── statistics.png

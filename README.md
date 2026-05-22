@@ -118,7 +118,7 @@ Using the same customer CSV file across multiple thread groups (Send Money & Pay
 
 #### 🔍 Cause
 - Same user logged in from multiple threads simultaneously  
-- Backend invalidated previous tokens  
+- Backend invalidated previous tokens , arise deadlock situation 
 
 #### ✅ Solution
 - Used separate CSV files for each thread group  

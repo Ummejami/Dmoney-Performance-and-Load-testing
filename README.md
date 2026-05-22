@@ -38,21 +38,19 @@ It simulates different financial transactions such as deposit, send money, and p
 ---
 ## 📸 Test Results
 
-### 🔹 Request Summary
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ummejami/Dmoney-Performance-and-Load-testing/main/Images/request-summary.png" width="700"/>
-  <br>
-  <em>Figure: Request Summary Report</em>
+  <strong>🔹 Request Summary</strong>
 </p>
+
+![Request Summary](https://github.com/Ummejami/Dmoney-Performance-and-Load-testing/blob/main/Images/request-summary.png)
 
 ---
 
-### 🔹 Statistics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ummejami/Dmoney-Performance-and-Load-testing/main/Images/statistics.png" width="700"/>
-  <br>
-  <em>Figure: Performance Statistics</em>
+  <strong>🔹 Statistics</strong>
 </p>
+
+![Statistics](https://github.com/Ummejami/Dmoney-Performance-and-Load-testing/blob/main/Images/statistics.png)
 
 ---
 ## Structure Of Project

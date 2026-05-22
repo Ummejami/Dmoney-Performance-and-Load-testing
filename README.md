@@ -46,18 +46,18 @@ It simulates different financial transactions such as deposit, send money, and p
 
 ---
 ## Structure Of Project
-```
-project-folder/
+``
+main/
 │
 ├── Dmoney.jmx
 ├── README.md
 │
-├── resources/
+├── Resources/
 │   ├── deposite.csv
 │   ├── sendmoney.csv
 │   └── payment.csv
 │
-└── images/
+└── Images/
     ├── request-summary.png
     └── statistics.png
 ```

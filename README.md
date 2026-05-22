@@ -1,4 +1,4 @@
-# 💰 Dmoney API Testing (JMeter)
+# 💰 Dmoney Performance Testing (JMeter)
 
 ## 📌 Project Overview
 This project contains performance and functional testing of the Dmoney system using Apache JMeter.  

@@ -43,7 +43,7 @@ It simulates different financial transactions such as deposit, send money, and p
   - Helped simulate real-world scenarios with different datasets
 - **JDBC Connection & JDBC Request**
   - Configured database connection in JMeter
-  - Executed SQL queries directly (Extract OTP)
+  - Executed SQL queries directly (Extract OTP from database)
   - Used for test data setup and cleanup (e.g., activating users,delete last 10 transaction to avoid Daily transaction limit)
 ---
 
